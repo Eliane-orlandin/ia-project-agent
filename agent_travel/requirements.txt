@@ -1,4 +1,0 @@
-crewai
-ipykernel
-python-dotenv
-

@@ -1,0 +1,21 @@
+ID,Endereço,Preço,Quartos,Banheiros,Metragem,Tipo
+1,"Rua das Palmeiras, 123 - São Paulo",1209339,5,3,127,Studio
+2,"Rua das Palmeiras, 123 - São Paulo",1881876,2,2,127,Apartamento
+3,"Avenida Brasil, 456 - Rio de Janeiro",1103989,5,3,125,Studio
+4,"Rua das Palmeiras, 123 - São Paulo",621648,1,2,261,Sobrado
+5,"Avenida Paulista, 101 - São Paulo",481880,5,2,257,Apartamento
+6,"Avenida Brasil, 456 - Rio de Janeiro",1624167,1,1,48,Cobertura
+7,"Avenida Brasil, 456 - Rio de Janeiro",460721,4,1,182,Cobertura
+8,"Rua das Palmeiras, 123 - São Paulo",459145,5,4,263,Apartamento
+9,"Rua das Palmeiras, 123 - São Paulo",951408,5,3,279,Studio
+10,"Avenida Brasil, 456 - Rio de Janeiro",616040,4,3,59,Casa
+11,"Rua XV de Novembro, 789 - Curitiba",1447926,4,1,149,Apartamento
+12,"Rua das Palmeiras, 123 - São Paulo",1183570,4,2,202,Sobrado
+13,"Avenida Brasil, 456 - Rio de Janeiro",706723,2,2,238,Casa
+14,"Avenida Brasil, 456 - Rio de Janeiro",630587,4,3,178,Cobertura
+15,"Avenida Paulista, 101 - São Paulo",1072474,3,2,170,Studio
+16,"Rua dos Andradas, 303 - Porto Alegre",1285373,3,2,254,Cobertura
+17,"Rua dos Andradas, 303 - Porto Alegre",1611301,5,3,268,Cobertura
+18,"Rua dos Andradas, 303 - Porto Alegre",683614,1,3,255,Casa
+19,"Avenida Brasil, 456 - Rio de Janeiro",1960456,1,2,140,Cobertura
+20,"Rua das Palmeiras, 123 - São Paulo",366115,1,4,168,Studio
